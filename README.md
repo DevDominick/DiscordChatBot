@@ -7,7 +7,7 @@ Marucs-dev
 
 ### Preview:
 <p align="left">
-    <img align="center" src="https://media.discordapp.net/attachments/973534850973843456/992420181311770754/Capture.PNGe" alt="Python" />
+    <img align="center" src="https://media.discordapp.net/attachments/973534850973843456/992420181311770754/Capture.PNG" alt="Python" />
 </p>
 
 
